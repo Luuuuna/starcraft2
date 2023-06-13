@@ -8,6 +8,7 @@
 body {
     font-family: "Yanone", sans-serif;
 }
+
 i.fa {
     font-size: 30px;
     margin-right: 10px;
@@ -16,6 +17,7 @@ i.fa {
     background-image: url(../img/background__main.jpg);
     background-repeat: repeat-x;
     animation: slide 90s linear infinite;
+   
 }
 .app {
     height: 100vh;
